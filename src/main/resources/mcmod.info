@@ -1,0 +1,16 @@
+[
+{
+  "modid": "replace-broken",
+  "name": "Replace Broken",
+  "description": "Move tools into your hotbar when they break.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["@karlthepagan"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
